@@ -1,3 +1,9 @@
 [submodule "_shared"]
 	path = _shared
-	url = ./_shared
+	url = http://stash.englishtown.com/scm/MAIN/ui-shared-dist.git
+[submodule "_shared2"]
+	path = _shared2
+	url = http://stash.englishtown.com/scm/MAIN/ui-shared-dist.git
+[submodule "_shared3"]
+	path = _shared3
+	url = http://stash.englishtown.com/scm/MAIN/ui-shared-dist.git
